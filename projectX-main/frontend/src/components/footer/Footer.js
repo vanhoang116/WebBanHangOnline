@@ -7,7 +7,7 @@ function Footer(props) {
       <div className="footer">
         <div className="footer-top">
           <div className="footer-top-name">
-            <h2>Shop Mai Thùy Linh</h2>
+            <h2>Shop Le Mai Van Hoang</h2>
           </div>
           <div className="footer-top-about">
             <h2>About us</h2>
